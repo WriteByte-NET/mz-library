@@ -1,5 +1,7 @@
 # [mZ] Library 
-A library encompassing Marzi's proprietary iconics for both Sapphiku and Mycinmix, mostly because holding multiple variations in different devices is bad organization, and for high quality stuff.
+A collective library of all Marzi's proprietary iconics and assets encompassing both Sapphiku and Mycinmix, and mostly because holding multiple variations in different devices is bad structure and management, and for high-quality purposes.
 
 ## Copyright
-All rights reserved i guess :p - Sapphiku and Mycinmix are trademarks by [Marzi](https://marzi.nya.je), the Sapphiku logo drawn by me, and so is the Mycinmix logo also being drawn by me alongside character iconic. 
+All rights reserved i guess :p 
+
+Sapphiku, and the Sapphiku logo & Mycinmix and the Nymphia icon are properties and trademarks by [Marzi](https://marzi.nya.je). Sapphiku and Mycinmix are respectively managed by [WriteByte](https://marzi.nya.je/wb).
